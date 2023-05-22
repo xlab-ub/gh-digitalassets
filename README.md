@@ -13,7 +13,7 @@ First, the GitHub Cli must be installed. Please follow this link https://github.
 
 Next, the extension needs to be installed.
 ```console
-gh extension install https://github.com/ramchandra-ub/gh-digitalassets
+gh extension install https://github.com/xlab-ub/gh-digitalassets.git
 ```
 
 ### Prerequisites
